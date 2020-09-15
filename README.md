@@ -1,11 +1,11 @@
 
-![NPM License](undefined)
+[![Github License](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Maereen/StrapDown.js/blob/master/undefined)
 
-# Project Title : NODE.js Command Line README.md Generator
+# Project Title - readme
 
 ## Project Description
 
-Use this application in the NODE terminal.  Run "node index.js".  Follow the prompts.  Ipso Facto, abbracadabra, VOILA - you got yourself a good README file.
+install at will with a git clone
 
 ## Table of Contents
 * [Title](#project-title)
@@ -20,11 +20,11 @@ Use this application in the NODE terminal.  Run "node index.js".  Follow the pro
 
 ## Installation Instructions
 
-Use this application in the NODE terminal.  Run "node index.js".  Follow the prompts.  Ipso Facto, abbracadabra, VOILA - you got yourself a good README file.
+install at will with a git clone
 
 ## Usage 
 
-Follow the installation instructions.  Push the folder up to your GitHub repository.  Capiche.
+run "node index.js" in command line to get the readme.
 
 ## License
 

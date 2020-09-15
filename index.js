@@ -3,9 +3,9 @@ const fs = require("fs");
 
 function generateMarkDown(data)  {
     return `
-![NPM License](${data.license})
+[![Github License](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Maereen/StrapDown.js/blob/master/${data.license})
 
-# Project Title : ${data.title}
+# Project Title - ${data.title}
 
 ## Project Description
 
