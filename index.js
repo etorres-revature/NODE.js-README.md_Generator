@@ -1,11 +1,55 @@
 const inquirer = require("inquirer");
 const fs = require("fs");
 
+function generateMarkDown(data)  {`
+![NPM License](https://img.shields.io/npm/l/${data.license})
+
+# Project Title : ${data.title}
+
+## Project Description
+
+${data.installation}
+
+## Table of Contents
+* [Title](#project-title)
+* [Description](#project-description)
+* [Table of Contents]()
+* [Installation](#installation-instructions)
+* [Usage](#usage)
+* [License](#license)
+* [Constributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questios)
+
+## Installation Instructions
+
+${data.installation}
+
+## Usage 
+
+${data.usage}
+
+## License
+
+This application usese the ${data.license}.
+
+## Contributing
+
+## Tests
+
+## Questions
+
+Check out my [GitHub profile](https://github.com/${data.github}).
+
+You can contact me by e-mail at ${data.email} for any additional questions and/ or clarifications you may need about the project.
+`
+}
+
 inquirer
   .prompt([
     {
       type: "input",
-      name: "project-title",
+      name: "title",
       message: "What is the title of your project?",
     },
     {
@@ -62,5 +106,14 @@ inquirer
         message: "Please enter your e-mail address."
     }
   ])
-  .then()
+  .then((data) => {
+
+    fs.writeFile("README.md", generateMarkDown(data), function(err) {
+        if (err) {
+            console.log(error);
+        } else {
+            console.log("SUCCESSS!!!!")
+        }
+    })
+  })
 
