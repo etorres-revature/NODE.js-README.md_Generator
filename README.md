@@ -1,11 +1,11 @@
 
-[![Github License](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Maereen/StrapDown.js/blob/master/undefined)
+[![Github License](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Maereen/StrapDown.js/blob/master/GNU General Public License v2.0)
 
-# Project Title - readme generator
+# Project Title - readme
 
 ## Project Description
 
-clone repo.  run "node index.js" in command line
+readme
 
 ## Table of Contents
 * [Title](#project-title)
@@ -20,15 +20,15 @@ clone repo.  run "node index.js" in command line
 
 ## Installation Instructions
 
-clone repo.  run "node index.js" in command line
+readme
 
 ## Usage 
 
-see above
+readme
 
 ## License
 
-This application usese the undefined.
+This application usese the GNU General Public License v2.0.
 
 ## Contributing
 

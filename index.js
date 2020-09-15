@@ -81,7 +81,7 @@ inquirer
     {
       type: "list",
       message: "Which license are you choosing for your project?",
-      name: "license-type",
+      name: "license",
       choices: [
           "Apache License 2.0",
           "MIT License", 
