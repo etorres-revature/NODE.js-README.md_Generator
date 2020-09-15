@@ -1,16 +1,16 @@
 
-![NPM License](https://img.shields.io/npm/l/undefined)
+![NPM License](undefined)
 
-# Project Title : README generator
+# Project Title : NODE.js Command Line README.md Generator
 
 ## Project Description
 
-Use this application to produce goode README files and you WON'T be disappointed!!
+Use this application in the NODE terminal.  Run "node index.js".  Follow the prompts.  Ipso Facto, abbracadabra, VOILA - you got yourself a good README file.
 
 ## Table of Contents
 * [Title](#project-title)
 * [Description](#project-description)
-* [Table of Contents]()
+* [Table of Contents](#table-of-congents)
 * [Installation](#installation-instructions)
 * [Usage](#usage)
 * [License](#license)
@@ -20,11 +20,11 @@ Use this application to produce goode README files and you WON'T be disappointed
 
 ## Installation Instructions
 
-Use this application to produce goode README files and you WON'T be disappointed!!
+Use this application in the NODE terminal.  Run "node index.js".  Follow the prompts.  Ipso Facto, abbracadabra, VOILA - you got yourself a good README file.
 
 ## Usage 
 
-This is a command line application.  Use it in NODE.js.
+Follow the installation instructions.  Push the folder up to your GitHub repository.  Capiche.
 
 ## License
 

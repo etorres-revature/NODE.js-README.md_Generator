@@ -3,7 +3,7 @@ const fs = require("fs");
 
 function generateMarkDown(data)  {
     return `
-![NPM License](https://img.shields.io/npm/l/${data.license})
+![NPM License](${data.license})
 
 # Project Title : ${data.title}
 
@@ -14,7 +14,7 @@ ${data.installation}
 ## Table of Contents
 * [Title](#project-title)
 * [Description](#project-description)
-* [Table of Contents]()
+* [Table of Contents](#table-of-congents)
 * [Installation](#installation-instructions)
 * [Usage](#usage)
 * [License](#license)
