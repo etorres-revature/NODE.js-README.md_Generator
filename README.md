@@ -1,11 +1,11 @@
 
-[![Github License](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Maereen/StrapDown.js/blob/master/Eclipse%Public%License%2.0)
+![Github License](https://img.shields.io/badge/License-Eclipse_Public_License_2.0-brightgreen)
 
 # Project Title - readme
 
 ## Project Description
 
-clone this repo
+readme
 
 ## Table of Contents
 * [Title](#project-title)
@@ -20,11 +20,11 @@ clone this repo
 
 ## Installation Instructions
 
-clone this repo
+readme
 
 ## Usage 
 
-use to make good readme
+e-mail me
 
 ## License
 

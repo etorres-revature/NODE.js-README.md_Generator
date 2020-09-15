@@ -3,7 +3,7 @@ const fs = require("fs");
 
 function generateMarkDown(data)  {
     return `
-[![Github License](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Maereen/StrapDown.js/blob/master/${data.license.split(" ").join("%")})
+![Github License](https://img.shields.io/badge/License-${data.license.split(" ").join("_")}-brightgreen)
 
 # Project Title - ${data.title}
 
