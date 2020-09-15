@@ -1,7 +1,8 @@
 const inquirer = require("inquirer");
 const fs = require("fs");
 
-function generateMarkDown(data)  {`
+function generateMarkDown(data)  {
+    return `
 ![NPM License](https://img.shields.io/npm/l/${data.license})
 
 # Project Title : ${data.title}
