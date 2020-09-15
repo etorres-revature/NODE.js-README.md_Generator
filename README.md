@@ -1,11 +1,11 @@
 
 [![Github License](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Maereen/StrapDown.js/blob/master/undefined)
 
-# Project Title - readme
+# Project Title - readme generator
 
 ## Project Description
 
-install at will with a git clone
+clone repo.  run "node index.js" in command line
 
 ## Table of Contents
 * [Title](#project-title)
@@ -20,11 +20,11 @@ install at will with a git clone
 
 ## Installation Instructions
 
-install at will with a git clone
+clone repo.  run "node index.js" in command line
 
 ## Usage 
 
-run "node index.js" in command line to get the readme.
+see above
 
 ## License
 
