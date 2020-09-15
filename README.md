@@ -1,11 +1,11 @@
 
-[![Github License](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Maereen/StrapDown.js/blob/master/GNU General Public License v2.0)
+[![Github License](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Maereen/StrapDown.js/blob/master/Eclipse%Public%License%2.0)
 
 # Project Title - readme
 
 ## Project Description
 
-readme
+clone this repo
 
 ## Table of Contents
 * [Title](#project-title)
@@ -20,15 +20,15 @@ readme
 
 ## Installation Instructions
 
-readme
+clone this repo
 
 ## Usage 
 
-readme
+use to make good readme
 
 ## License
 
-This application usese the GNU General Public License v2.0.
+This application usese the Eclipse Public License 2.0.
 
 ## Contributing
 
