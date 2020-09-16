@@ -1,11 +1,11 @@
 
-![Github License](https://img.shields.io/badge/License-Eclipse_Public_License_2.0-brightgreen)
+![Github License](https://img.shields.io/badge/License-Boost_Software_License_1.0-brightgreen)
 
-# Project Title - readme
+# Project Title - README Generaror
 
 ## Project Description
 
-readme
+Clone repo.  Run "node index.js" in command line terminal
 
 ## Table of Contents
 * [Title](#project-title)
@@ -20,15 +20,15 @@ readme
 
 ## Installation Instructions
 
-readme
+Clone repo.  Run "node index.js" in command line terminal
 
 ## Usage 
 
-e-mail me
+See above
 
 ## License
 
-This application usese the Eclipse Public License 2.0.
+This application usese the Boost Software License 1.0.
 
 ## Contributing
 
