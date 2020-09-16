@@ -6,7 +6,7 @@ function generateMarkDown(data)  {
 
 ## Project Description
 
-${data.installation}
+${data.description}
 
 ## Table of Contents
 * [Title](#project-title)
