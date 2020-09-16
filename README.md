@@ -1,11 +1,11 @@
 
-![Github License](https://img.shields.io/badge/License-Boost_Software_License_1.0-brightgreen)
+![Github License](https://img.shields.io/badge/License-Creative_Commons_Zero_v1.0_Universal-brightgreen)
 
-# Project Title - README Generaror
+# Project Title - Readme Generator
 
 ## Project Description
 
-Clone repo.  Run "node index.js" in command line terminal
+Generates Readme files
 
 ## Table of Contents
 * [Title](#project-title)
@@ -20,15 +20,15 @@ Clone repo.  Run "node index.js" in command line terminal
 
 ## Installation Instructions
 
-Clone repo.  Run "node index.js" in command line terminal
+Clone the repo
 
 ## Usage 
 
-See above
+In command line type "node index.js"
 
 ## License
 
-This application usese the Boost Software License 1.0.
+This application usese the Creative Commons Zero v1.0 Universal.
 
 ## Contributing
 
