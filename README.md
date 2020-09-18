@@ -1,11 +1,11 @@
 
 ![Github License](https://img.shields.io/badge/License-MIT_License-brightgreen)
 
-# NODE.js README Generator
+# NODE.js README.md Generator
 
 ## Project Description
 
-This project will automatically generate top-quality README files for your GitHub repositories.
+Command prompt application to generate top-quality README files for GitHub repositories
 
 ## Table of Contents
 
@@ -23,41 +23,21 @@ This project will automatically generate top-quality README files for your GitHu
 
 ## Installation Instructions
 
-Clone this repository.  Open it in VSCode.
+Clone repository.  Open in VSCode.
 
 ## Usage 
 
-In the command line type, "node index.js".  Then follow the prompts.
-
-Here are three :movie_camera: **VIDEOS** :movie_camera: that display how to use the application.
-
-1. *CODE* walk through:
-
-[![NODE.js README Generator code walkthrough](./assets/screenshots/node-readme-generator-code-walkthru.png)](https://drive.google.com/file/d/1moEZx_QtZ93HRuHfDI8zyLR-Af8nH8oV/preview)
-
-2. *PROMPTS* walk through:
-
-[![NODE.js README Generator prompts walkthrough](./assets/screenshots/node-readme-generator-prompts-walkthru.png)](https://drive.google.com/file/d/1Pz61WcnOsCsg-nIqhqiFVJyr_KCNl9lc/preview)
-
-3. *GitHub* walk through:
-
-[![NODE.js README Generator github walkthrough](./assets/screenshots/node-readme-generator-github-walkthru.png)](https://drive.google.com/file/d/1KDiMxsHyT0EC6M5HrvUv4qEPHOogETp9/preview)
-
-#### [You can also find the README file created in the videos by clicking here or the image below.](./readme/README.md)
-
-[![NODE.js README Generator README generated in videos](./assets/screenshots/node-readme-generator-generated-readme.png)](./readme/README.md)
-
+Type "node index.js" in the terminal command line.  Follow prompts
 
 ## Guidelines for Contributing
 
-If you have any suggestions for updates or new features, please be sure to e-mail me at the address provided below.
+Please e-mail feature suggestions to the address listed below
 
 ## Tests
 
-Test early; test often.
+test early, test often
 
 ### Technologies Used 
-### :computer: :computer: :computer: :computer: :computer: :computer: 
 
 #### :sparkler: JavaScript :sparkler:
 
@@ -75,7 +55,7 @@ Test early; test often.
 
 ### Author 
 
-:sunglasses: This *NODE.js README.md Generator* was built by :green_heart: Eric D. Torres :green_heart:
+This NODE.js README.md Generator was built by :green_heart: Eric D. Torres :green_heart:
 
 ## Questions
 
