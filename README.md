@@ -37,14 +37,17 @@ Here are three :movie_camera: **VIDEOS** :movie_camera: that display how to use 
 
 2. *PROMPTS* walk through:
 
-[![NODE.js README Generator prompts walkthrough](./assets/screenshots/node-readme-generator-propts-walkthru.png)](https://drive.google.com/file/d/1Pz61WcnOsCsg-nIqhqiFVJyr_KCNl9lc/preview)
+[![NODE.js README Generator prompts walkthrough](./assets/screenshots/node-readme-generator-prompts-walkthru.png)](https://drive.google.com/file/d/1Pz61WcnOsCsg-nIqhqiFVJyr_KCNl9lc/preview)
 
 3. *GitHub* walk through:
 
 [![NODE.js README Generator github walkthrough](./assets/screenshots/node-readme-generator-github-walkthru.png)](https://drive.google.com/file/d/1KDiMxsHyT0EC6M5HrvUv4qEPHOogETp9/preview)
 
 
-[This is the README file created in the videos](./readme/README.md).
+[![NODE.js README Generator README generated in videos](./assets/screenshots/node-readme-generator-generated-readme.png)](./readme/README.md)
+
+
+[You can also find the README file created in the videos here.](./readme/README.md).
 
 ## Guidelines for Contributing
 
