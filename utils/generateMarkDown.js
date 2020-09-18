@@ -56,7 +56,7 @@ ${data.test}
 
 ### Author 
 
-This NODE.js README.md Generator was built by :green_heart: Eric D. Torres :green_heart:
+This ${data.title} was built by :green_heart: ${data.developer} :green_heart:
 
 ## Questions
 
