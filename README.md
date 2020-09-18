@@ -33,15 +33,16 @@ Here are three :movie_camera: **VIDEOS** :movie_camera: that display how to use 
 
 1. *CODE* walk through:
 
-<iframe src="https://drive.google.com/file/d/1moEZx_QtZ93HRuHfDI8zyLR-Af8nH8oV/preview" width="640" height="480"></iframe>
+[![NODE.js README Generator code walkthrough](./assets/screenshots/node-readme-generator-code-walkthru.png)](https://drive.google.com/file/d/1moEZx_QtZ93HRuHfDI8zyLR-Af8nH8oV/preview)
 
 2. *PROMPTS* walk through:
 
-<iframe src="https://drive.google.com/file/d/1Pz61WcnOsCsg-nIqhqiFVJyr_KCNl9lc/preview" width="640" height="480"></iframe>
+[![NODE.js README Generator prompts walkthrough](./assets/screenshots/node-readme-generator-propts-walkthru.png)](https://drive.google.com/file/d/1Pz61WcnOsCsg-nIqhqiFVJyr_KCNl9lc/preview)
 
 3. *GitHub* walk through:
 
-<iframe src="https://drive.google.com/file/d/1KDiMxsHyT0EC6M5HrvUv4qEPHOogETp9/preview" width="640" height="480"></iframe>
+[![NODE.js README Generator github walkthrough](./assets/screenshots/node-readme-generator-github-walkthru.png)](https://drive.google.com/file/d/1KDiMxsHyT0EC6M5HrvUv4qEPHOogETp9/preview)
+
 
 [This is the README file created in the videos](./readme/README.md).
 
