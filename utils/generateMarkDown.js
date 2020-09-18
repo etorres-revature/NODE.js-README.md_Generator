@@ -9,17 +9,18 @@ function generateMarkDown(data)  {
 ${data.description}
 
 ## Table of Contents
+
 * [Title](#project-title)
 * [Description](#project-description)
 * [Table of Contents](#table-of-congents)
 * [Installation](#installation-instructions)
 * [Usage](#usage)
-* [License](#license)
-* [Constributing](#contributing)
+* [Constributing](#guidelines-for-contributing)
 * [Tests](#tests)
 * [Technologies](#technologies-used)
 * [Author](#author)
 * [Questions](#questios)
+* [License](#license)
 
 ## Installation Instructions
 
@@ -29,13 +30,13 @@ ${data.installation}
 
 ${data.usage}
 
-## License
+## Guidelines for Contributing
 
-This application usese the ${data.license}.
-
-## Contributing
+${data.contribution}
 
 ## Tests
+
+${data.test}
 
 ### :computer: Technologies Used :computer:
 
@@ -62,6 +63,10 @@ This NODE.js README.md Generator was built by :green_heart: Eric D. Torres :gree
 Check out my [GitHub profile](https://github.com/${data.github}).
 
 You can contact me by e-mail at ${data.email} for any additional questions and/ or clarifications you may need about the project.
+
+##### License
+
+This application usese the ${data.license}.
 `;
 }
 
