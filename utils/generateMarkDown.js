@@ -48,7 +48,7 @@ ${data.test}
 
 #### :globe_with_meridians: NODE.js :globe_with_meridians:
 
-**NODE.js** is an open-source, corss-platform JavaScript runtime environment that execute JavaScript code outside a web browser.  Node.js lets developers use JavaScript to write command line tools and for server=-side scripting.  Node.js represents a "Javascript everywhere" paradigm, unifying web-application development around a single programming language, rather than different programmig languages for server- and client-side scripts.  
+**NODE.js** is an open-source, corss-platform JavaScript runtime environment that execute JavaScript code outside a web browser.  Node.js lets developers use JavaScript to write command line tools and for server-side scripting.  Node.js represents a "Javascript everywhere" paradigm, unifying web-application development around a single programming language, rather than different programming languages for server- and client-side scripts.  
 
 *NODE.js* content borrowed from <a target="_blank" rel="noopener noreferrer">[this page](https://en.wikipedia.org/wiki/Node.js).
 
