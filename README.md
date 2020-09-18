@@ -43,7 +43,7 @@ Here are three :movie_camera: **VIDEOS** :movie_camera: that display how to use 
 
 [![NODE.js README Generator github walkthrough](./assets/screenshots/node-readme-generator-github-walkthru.png)](https://drive.google.com/file/d/1KDiMxsHyT0EC6M5HrvUv4qEPHOogETp9/preview)
 
-#### [You can also find the README file created in the videos by clicking here or the image below.](./readme/README.md).
+#### [You can also find the README file created in the videos by clicking here or the image below.](./readme/README.md)
 
 [![NODE.js README Generator README generated in videos](./assets/screenshots/node-readme-generator-generated-readme.png)](./readme/README.md)
 
