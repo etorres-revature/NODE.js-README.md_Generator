@@ -29,6 +29,22 @@ Clone this repository.  Open it in VSCode.
 
 In the command line type, "node index.js".  Then follow the prompts.
 
+Here are three :movie_camera: **VIDEOS** :movie_camera: that display how to use the application.
+
+1. *CODE* walk through:
+
+<iframe src="https://drive.google.com/file/d/1moEZx_QtZ93HRuHfDI8zyLR-Af8nH8oV/preview" width="640" height="480"></iframe>
+
+2. *PROMPTS* walk through:
+
+<iframe src="https://drive.google.com/file/d/1Pz61WcnOsCsg-nIqhqiFVJyr_KCNl9lc/preview" width="640" height="480"></iframe>
+
+3. *GitHub* walk through:
+
+<iframe src="https://drive.google.com/file/d/1KDiMxsHyT0EC6M5HrvUv4qEPHOogETp9/preview" width="640" height="480"></iframe>
+
+[This is the README file created in the videos](./readme/README.md).
+
 ## Guidelines for Contributing
 
 If you have any suggestions for updates or new features, please be sure to e-mail me at the address provided below.
