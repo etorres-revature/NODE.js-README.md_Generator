@@ -66,7 +66,7 @@ You can contact me by e-mail at ${data.email} for any additional questions and/ 
 
 ##### License
 
-This application usese the ${data.license}.
+This application usese the **${data.license}**.
 `;
 }
 
