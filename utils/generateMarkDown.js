@@ -2,7 +2,7 @@ function generateMarkDown(data)  {
     return `
 ![Github License](https://img.shields.io/badge/License-${data.license.split(" ").join("_")}-brightgreen)
 
-# Project Title - ${data.title}
+# ${data.title}
 
 ## Project Description
 
@@ -15,11 +15,11 @@ ${data.description}
 * [Table of Contents](#table-of-congents)
 * [Installation](#installation-instructions)
 * [Usage](#usage)
-* [Constributing](#guidelines-for-contributing)
+* [Contributing](#guidelines-for-contributing)
 * [Tests](#tests)
 * [Technologies](#technologies-used)
 * [Author](#author)
-* [Questions](#questios)
+* [Questions](#questions)
 * [License](#license)
 
 ## Installation Instructions
@@ -38,7 +38,7 @@ ${data.contribution}
 
 ${data.test}
 
-### :computer: Technologies Used :computer:
+### Technologies Used 
 
 #### :sparkler: JavaScript :sparkler:
 
@@ -54,7 +54,7 @@ ${data.test}
 
 [Download Node.js](https://nodejs.org/en/).
 
-### Author :sunglasses:
+### Author 
 
 This NODE.js README.md Generator was built by :green_heart: Eric D. Torres :green_heart:
 

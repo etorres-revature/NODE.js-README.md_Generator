@@ -1,7 +1,7 @@
 
 ![Github License](https://img.shields.io/badge/License-MIT_License-brightgreen)
 
-# Project Title - NODE.js README Generator
+# NODE.js README Generator
 
 ## Project Description
 
@@ -14,11 +14,11 @@ This project will automatically generate top-quality README files for your GitHu
 * [Table of Contents](#table-of-congents)
 * [Installation](#installation-instructions)
 * [Usage](#usage)
-* [Constributing](#guidelines-for-contributing)
+* [Contributing](#guidelines-for-contributing)
 * [Tests](#tests)
 * [Technologies](#technologies-used)
 * [Author](#author)
-* [Questions](#questios)
+* [Questions](#questions)
 * [License](#license)
 
 ## Installation Instructions
@@ -43,11 +43,10 @@ Here are three :movie_camera: **VIDEOS** :movie_camera: that display how to use 
 
 [![NODE.js README Generator github walkthrough](./assets/screenshots/node-readme-generator-github-walkthru.png)](https://drive.google.com/file/d/1KDiMxsHyT0EC6M5HrvUv4qEPHOogETp9/preview)
 
+#### [You can also find the README file created in the videos by clicking here or the image below.](./readme/README.md).
 
 [![NODE.js README Generator README generated in videos](./assets/screenshots/node-readme-generator-generated-readme.png)](./readme/README.md)
 
-
-[You can also find the README file created in the videos here.](./readme/README.md).
 
 ## Guidelines for Contributing
 
@@ -57,7 +56,8 @@ If you have any suggestions for updates or new features, please be sure to e-mai
 
 Test early; test often.
 
-### :computer: Technologies Used :computer:
+### Technologies Used 
+### :computer: :computer: :computer: :computer: :computer: :computer: 
 
 #### :sparkler: JavaScript :sparkler:
 
@@ -73,9 +73,9 @@ Test early; test often.
 
 [Download Node.js](https://nodejs.org/en/).
 
-### Author :sunglasses:
+### Author 
 
-This NODE.js README.md Generator was built by :green_heart: Eric D. Torres :green_heart:
+:sunglasses: This *NODE.js README.md Generator* was built by :green_heart: Eric D. Torres :green_heart:
 
 ## Questions
 
