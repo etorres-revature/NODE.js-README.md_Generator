@@ -74,7 +74,7 @@ const questions = [{
 function writeToFile(fileName, data) {
     fs.writeFile(fileName, markDown(data), function(err) {
         if (err) {
-            console.log(error);
+            console.log("You have an error:", err);
         } else {
             console.log("SUCCESSS!!!!")
         }
