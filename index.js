@@ -72,7 +72,7 @@ const questions = [{
 
 // function to write README file
 function writeToFile(fileName, data) {
-    fs.writeFile(fileName, markDown(data), function(err) {
+    fs.writeFile(fileName, markDown(data), "utf8", function(err) {
         if (err) {
             console.log("You have an error:", err);
         } else {
