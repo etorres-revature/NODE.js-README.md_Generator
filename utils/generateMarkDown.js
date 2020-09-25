@@ -87,7 +87,7 @@ You can contact me by e-mail at ${data.email} for any additional questions and/ 
 
 ##### License
 
-This application usese the **${data.license}**.
+This application uses the **${data.license}**.
 
 **[This README.md file generated with my NODE.js README Generator app.](https://github.com/etorres-revature/NODEjs_README.md_Generator)
 `;
