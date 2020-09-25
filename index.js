@@ -1,6 +1,10 @@
 const inquirer = require("inquirer");
 const fs = require("fs");
-const markDown = require("./utils/generateMarkDown")
+const markDown = require("./utils/generateMarkDown");
+const path = require("path");
+
+const OUTPUT_DIR = path.resolve("../NODE.js-CLI_Team_Generator");
+
 
 // array of questions for user
 const questions = [{
@@ -86,7 +90,7 @@ function init() {
 inquirer
 .prompt(questions)
 .then(function (data) {
-    writeToFile("README.md", data)
+    writeToFile(path.join(OUTPUT_DIR, "README.md"), data)
 });
 }
 

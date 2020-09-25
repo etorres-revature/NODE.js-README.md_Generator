@@ -33,15 +33,15 @@ Here are three :movie_camera: **VIDEOS** :movie_camera: that display how to use 
 
 1. *CODE* walk through:
 
-[![NODE.js README Generator code walkthrough](./assets/screenshots/node-readme-generator-code-walkthru.png)](https://drive.google.com/file/d/1moEZx_QtZ93HRuHfDI8zyLR-Af8nH8oV/preview)
+[![NODE.js README Generator code walk through](./assets/screenshots/node-readme-generator-code-walkthru.png)](https://drive.google.com/file/d/1moEZx_QtZ93HRuHfDI8zyLR-Af8nH8oV/preview)
 
 2. *PROMPTS* walk through:
 
-[![NODE.js README Generator prompts walkthrough](./assets/screenshots/node-readme-generator-prompts-walkthru.png)](https://drive.google.com/file/d/1Pz61WcnOsCsg-nIqhqiFVJyr_KCNl9lc/preview)
+[![NODE.js README Generator prompts walk through](./assets/screenshots/node-readme-generator-prompts-walkthru.png)](https://drive.google.com/file/d/1Pz61WcnOsCsg-nIqhqiFVJyr_KCNl9lc/preview)
 
 3. *GitHub* walk through:
 
-[![NODE.js README Generator github walkthrough](./assets/screenshots/node-readme-generator-github-walkthru.png)](https://drive.google.com/file/d/1KDiMxsHyT0EC6M5HrvUv4qEPHOogETp9/preview)
+[![NODE.js README Generator github walk through](./assets/screenshots/node-readme-generator-github-walkthru.png)](https://drive.google.com/file/d/1KDiMxsHyT0EC6M5HrvUv4qEPHOogETp9/preview)
 
 #### [You can also find the README file created in the videos by clicking here or the image below.](./readme/README.md)
 
