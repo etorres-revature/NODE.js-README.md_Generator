@@ -1,3 +1,5 @@
+//function to generate markdown code that will become the README file
+
 function generateMarkDown(data)  {
     return `
 ![Github License](https://img.shields.io/badge/License-${data.license.split(" ").join("_")}-brightgreen)
@@ -93,4 +95,6 @@ You can contact me by e-mail at ${data.email} for any additional questions and/ 
 `;
 }
 
+
+//creating an export of this file so that other files have acces to it through "require"
 module.exports = generateMarkDown
