@@ -79,7 +79,7 @@ Separation of formating and content also makes it feasible to present the same m
 
 #### :satellite: Express.js :satellite:
 
-**Express.js** is a minimal and flexible NODE.js web application framework tat provides a robust set of features for web and mobile applications.  The myriad HTTP utility methods and middleware allow for the creation of a robust API.  Express.js provides a thin layer of fundamental features, without obscuring NODE.js features.
+**Express.js** is a minimal and flexible NODE.js web application framework that provides a robust set of features for web and mobile applications.  The myriad HTTP utility methods and middleware allow for the creation of a robust API.  Express.js provides a thin layer of fundamental features, without obscuring NODE.js features.
 
 *Express.js* content borrowed from <a target="_blank" rel="noopener noreferrer">[this page](https://expressjs.com/).</a>
 
@@ -97,7 +97,7 @@ You can contact me by e-mail at ${data.email} for any additional questions and/ 
 
 [This application uses the **${data.license}** found here](./LICENSE).
 
-**[This README.md file generated with my NODE.js README Generator app.](https://github.com/etorres-revature/NODEjs_README.md_Generator)
+**[This README.md file generated with my NODE.js README Generator app.](https://github.com/etorres-revature/NODEjs_README.md_Generator)**
 `;
 }
 
