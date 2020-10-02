@@ -77,6 +77,12 @@ Separation of formating and content also makes it feasible to present the same m
 
 [Download Node.js](https://nodejs.org/en/).
 
+#### :satellite: Express.js :satellite:
+
+**Express.js** is a minimal and flexible NODE.js web application framework tat provides a robust set of features for web and mobile applications.  The myriad HTTP utility methods and middleware allow for the creation of a robust API.  Express.js provides a thin layer of fundamental features, without obscuring NODE.js features.
+
+*Express.js* content borrowed from <a target="_blank" rel="noopener noreferrer">[this page](https://expressjs.com/).</a>
+
 ### Author 
 
 This *${data.title}* was built by :green_heart: ${data.developer} :green_heart:
