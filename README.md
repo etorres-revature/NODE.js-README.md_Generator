@@ -11,7 +11,7 @@ This project will automatically generate top-quality README files for your GitHu
 
 * [Title](#project-title)
 * [Description](#project-description)
-* [Table of Contents](#table-of-congents)
+* [Table of Contents](#table-of-contents)
 * [Installation](#installation-instructions)
 * [Usage](#usage)
 * [Contributing](#guidelines-for-contributing)
@@ -67,7 +67,7 @@ Test early; test often.
 
 #### :globe_with_meridians: NODE.js :globe_with_meridians:
 
-**NODE.js** is an open-source, corss-platform JavaScript runtime environment that execute JavaScript code outside a web browser.  NODE.js lets developers use JavaScript to write command line tools and for server-side scripting.  NODE.js represents a "Javascript everywhere" paradigm, unifying web-application development around a single programming language, rather than different programming languages for server- and client-side scripts.  
+**NODE.js** is an open-source, cross-platform JavaScript runtime environment that execute JavaScript code outside a web browser.  NODE.js lets developers use JavaScript to write command line tools and for server-side scripting.  NODE.js represents a "Javascript everywhere" paradigm, unifying web-application development around a single programming language, rather than different programming languages for server- and client-side scripts.  
 
 *NODE.js* content borrowed from <a target="_blank" rel="noopener noreferrer">[this page](https://en.wikipedia.org/wiki/Node.js).
 
