@@ -45,7 +45,7 @@ ${data.test}
 
 #### :memo: HTML5 :memo:
 
-**HTML5** is a markup language used for structuring and presenting content on the World Wide Web.  The goals are to improve the language with support for the latest multi-media and other new features; to keep the language both easily readable by humans and consistently understood by computers and devices; and to remain backward compatible to older software.  Many new symantic features are included.
+**HTML5** is a markup language used for structuring and presenting content on the World Wide Web.  The goals are to improve the language with support for the latest multi-media and other new features; to keep the language both easily readable by humans and consistently understood by computers and devices; and to remain backward compatible to older software.  Many new symantec features are included.
 
 *HTML5* content borrowed from <a target="_blank" rel="noopener noreferrer">[this page](https://en.wikipedia.org/wiki/HTML5).</a>
 
@@ -63,6 +63,12 @@ Separation of formatting and content also makes it feasible to present the same 
 
 *Bootstrap 4* content borrowed from <a target="_blank" rel="noopener noreferrer">[this page](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)).</a>
 
+#### :notebook: Semantic-UI :notebook:
+
+**Semantic UI** is a modern front-end development framework powered by LESS and jQuery.  It has a sleek, subtle, flat design that provides lightweight user experience.  
+
+*Semantic UI* content borrowed from <a target="_blank" rel="noopener noreferrer">[this page](https://www.sitepoint.com/introducing-semantic-ui-component-library/#:~:text=Semantic%20UI%20is%20a%20modern,a%20language%20for%20sharing%20UI%E2%80%9D.).</a>
+
 #### :sparkler: JavaScript :sparkler:
 
 **JavaScript (JS)** is one of the core technologies of the World Wide Web (along with HTML and CSS). It enables interactive web pages and is an essential part of web applications.  JS is a multi-faceted, scripting language that provides versatility through Application Programming Interfaces (APIs) and Document Object Model (DOM) manipulation, among others.
@@ -73,7 +79,7 @@ Separation of formatting and content also makes it feasible to present the same 
 
 **NODE.js** is an open-source, cross-platform JavaScript runtime environment that execute JavaScript code outside a web browser.  NODE.js lets developers use JavaScript to write command line tools and for server-side scripting.  NODE.js represents a "Javascript everywhere" paradigm, unifying web-application development around a single programming language, rather than different programming languages for server- and client-side scripts.  
 
-*NODE.js* content borrowed from <a target="_blank" rel="noopener noreferrer">[this page](https://en.wikipedia.org/wiki/Node.js).
+*NODE.js* content borrowed from <a target="_blank" rel="noopener noreferrer">[this page](https://en.wikipedia.org/wiki/Node.js).</a>
 
 [Download Node.js](https://nodejs.org/en/).
 
@@ -83,19 +89,11 @@ Separation of formatting and content also makes it feasible to present the same 
 
 *Express.js* content borrowed from <a target="_blank" rel="noopener noreferrer">[this page](https://expressjs.com/).</a>
 
-#### :card_index: MySQL :card_index:
+#### :japanese_ogre: MongoDB :japanese_ogre:
 
-**MySQL** is an open-source relational database management system(RDBMS). A relational database organizes data into one or more data tables.  SQL is a language programmers use to create, modify, and extract data from the relational database, as well as control access to the database.
+**MongoDB** is a document-oriented NoSQL database used for high volume data storage.  Instead of using tables and rows like traditional databases, MongoDB makes use of collections and documents.  Documents consist of key-value pairs that are the basic unit of data and more closely resemble the JSON architecture.    
 
-*MySQL* content borrowed from <a target="_blank" rel="noopener noreferrer">[this page](https://en.wikipedia.org/wiki/MySQL).</a>
-
-[Download MySQL](https://dev.mysql.com/downloads/mysql).
-
-#### :neckbeard: Handlebars :neckbeard:
-
-**Handlebars** is a simple *templating language*.  It uses a template and an input object to generate HTML or other text formats.  Handlebars templates look like regular text with embedded Handlebars expressions.
-
-*Handlebars* content borrowed  from <a target="_blank" rel="noopener noreferrer">[this page](https://handlebarsjs.com/guide/).</a>
+*MongoDB* content borrowed from <a target="_blank" rel="noopener noreferrer>[this page](https://www.guru99.com/what-is-mongodb.html#:~:text=MongoDB%20is%20a%20document%2Doriented,use%20of%20collections%20and%20documents.&text=Collections%20contain%20sets%20of%20documents,equivalent%20of%20relational%20database%20tables.)</a>
 
 ### Author 
 
