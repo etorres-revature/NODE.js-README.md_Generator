@@ -63,8 +63,6 @@ Separation of formatting and content also makes it feasible to present the same 
 
 *Bootstrap 4* content borrowed from <a target="_blank" rel="noopener noreferrer">[this page](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)).</a>
 
-#### :notebook: Semantic-UI :notebook:
-
 #### :sparkler: JavaScript :sparkler:
 
 **JavaScript (JS)** is one of the core technologies of the World Wide Web (along with HTML and CSS). It enables interactive web pages and is an essential part of web applications.  JS is a multi-faceted, scripting language that provides versatility through Application Programming Interfaces (APIs) and Document Object Model (DOM) manipulation, among others.
