@@ -65,15 +65,17 @@ Separation of formatting and content also makes it feasible to present the same 
 
 #### :notebook: Semantic-UI :notebook:
 
-**Semantic UI** is a modern front-end development framework powered by LESS and jQuery.  It has a sleek, subtle, flat design that provides lightweight user experience.  
-
-*Semantic UI* content borrowed from <a target="_blank" rel="noopener noreferrer">[this page](https://www.sitepoint.com/introducing-semantic-ui-component-library/#:~:text=Semantic%20UI%20is%20a%20modern,a%20language%20for%20sharing%20UI%E2%80%9D.).</a>
-
 #### :sparkler: JavaScript :sparkler:
 
 **JavaScript (JS)** is one of the core technologies of the World Wide Web (along with HTML and CSS). It enables interactive web pages and is an essential part of web applications.  JS is a multi-faceted, scripting language that provides versatility through Application Programming Interfaces (APIs) and Document Object Model (DOM) manipulation, among others.
 
 *JavaScript* content borrowed from <a target="_blank" rel="noopener noreferrer">[this page](https://en.wikipedia.org/wiki/JavaScript).</a>
+
+#### :chart_with_upwards_trend: Chart.js :chart_with_upwards_trend:
+
+**Chart.js** is a free and open source JavaScript library that makes data visualization fun and easy.  Use the library in conjunction with the HTML5 canvas tag to quickly add data visualization to your JavaScript projects. 
+
+Find out more about *Chart.js* at <a target="_blank" rel="noopener noreferrer">[this page](https://www.chartjs.org/docs/latest/).
 
 #### :globe_with_meridians: NODE.js :globe_with_meridians:
 
@@ -93,7 +95,13 @@ Separation of formatting and content also makes it feasible to present the same 
 
 **MongoDB** is a document-oriented NoSQL database used for high volume data storage.  Instead of using tables and rows like traditional databases, MongoDB makes use of collections and documents.  Documents consist of key-value pairs that are the basic unit of data and more closely resemble the JSON architecture.    
 
-*MongoDB* content borrowed from <a target="_blank" rel="noopener noreferrer>[this page](https://www.guru99.com/what-is-mongodb.html#:~:text=MongoDB%20is%20a%20document%2Doriented,use%20of%20collections%20and%20documents.&text=Collections%20contain%20sets%20of%20documents,equivalent%20of%20relational%20database%20tables.)</a>
+*MongoDB* content borrowed from <a target="_blank" rel="noopener noreferrer">[this page](https://www.guru99.com/what-is-mongodb.html#:~:text=MongoDB%20is%20a%20document%2Doriented,use%20of%20collections%20and%20documents.&text=Collections%20contain%20sets%20of%20documents,equivalent%20of%20relational%20database%20tables)</a>
+
+#### IndexedDB
+
+**IndexedDB** is a way for developers to persistently store data inside a user's browser.  Because it lets you create web applications with rich query abilities regardless of network availability, your applications can work both online and offline.
+
+*IndexedDB* content borrowed from <a target="_blank" rel="noopener noreferrer">[this page](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API/Using_IndexedDB)</a>
 
 ### Author 
 
