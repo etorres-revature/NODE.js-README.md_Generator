@@ -5,7 +5,7 @@ const markDown = require("./utils/generateMarkDown");
 const path = require("path");
 
 //creating a director variable to push the generated README to the NODE.js Team Generator
-const OUTPUT_DIR = path.resolve("../React.js-Monsters_Rolodex");
+const OUTPUT_DIR = path.resolve("../PWA-Budget_Tracker");
 
 // array of questions for user
 const questions = [
