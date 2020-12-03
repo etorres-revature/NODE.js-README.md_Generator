@@ -61,21 +61,11 @@ Separation of formatting and content also makes it feasible to present the same 
 
 #### :shoe: Bootstrap 4 :shoe:
 
-**Bootstrap 4** is a free and open-source CSS framework directed at responsive, mobile-first front-end web development.  It contains CSS and (optionally) JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components.  
-
-*Bootstrap 4* content borrowed from <a target="_blank" rel="noopener noreferrer">[this page](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)).</a>
-
 #### :sparkler: JavaScript :sparkler:
 
 **JavaScript (JS)** is one of the core technologies of the World Wide Web (along with HTML and CSS). It enables interactive web pages and is an essential part of web applications.  JS is a multi-faceted, scripting language that provides versatility through Application Programming Interfaces (APIs) and Document Object Model (DOM) manipulation, among others.
 
 *JavaScript* content borrowed from <a target="_blank" rel="noopener noreferrer">[this page](https://en.wikipedia.org/wiki/JavaScript).</a>
-
-#### :chart_with_upwards_trend: Chart.js :chart_with_upwards_trend:
-
-**Chart.js** is a free and open source JavaScript library that makes data visualization fun and easy.  Use the library in conjunction with the HTML5 canvas tag to quickly add data visualization to your JavaScript projects. 
-
-Find out more about *Chart.js* at <a target="_blank" rel="noopener noreferrer">[this page](https://www.chartjs.org/docs/latest/).
 
 #### :globe_with_meridians: NODE.js :globe_with_meridians:
 
@@ -85,29 +75,12 @@ Find out more about *Chart.js* at <a target="_blank" rel="noopener noreferrer">[
 
 [Download Node.js](https://nodejs.org/en/).
 
-#### :satellite: Express.js :satellite:
+#### :dizzy: React.js :dizzy:
 
-**Express.js** is a minimal and flexible NODE.js web application framework that provides a robust set of features for web and mobile applications.  The myriad HTTP utility methods and middleware allow for the creation of a robust API.  Express.js provides a thin layer of fundamental features, without obscuring NODE.js features.
+**React.js** is an open source JavaScript library that is used for building interfaces for single-page applications, which handles the view layer for web and mobile apps.  React allows for the creation of reusable UI components.  This allows developers to create large web applications that change data, without reloading the page.
 
-*Express.js* content borrowed from <a target="_blank" rel="noopener noreferrer">[this page](https://expressjs.com/).</a>
+*React.js* content borrowed from <a target="_blank" rel="noopener noreferrer">[this page](https://www.c-sharpcorner.com/article/what-and-why-reactjs/#:~:text=It's%20used%20for%20handling%20the,to%20create%20reusable%20UI%20components.&text=React%20allows%20developers%20to%20create,fast%2C%20scalable%2C%20and%20simple.).</a>
 
-#### :japanese_ogre: MongoDB :japanese_ogre:
-
-**MongoDB** is a document-oriented NoSQL database used for high volume data storage.  Instead of using tables and rows like traditional databases, MongoDB makes use of collections and documents.  Documents consist of key-value pairs that are the basic unit of data and more closely resemble the JSON architecture.    
-
-*MongoDB* content borrowed from <a target="_blank" rel="noopener noreferrer">[this page](https://www.guru99.com/what-is-mongodb.html#:~:text=MongoDB%20is%20a%20document%2Doriented,use%20of%20collections%20and%20documents.&text=Collections%20contain%20sets%20of%20documents,equivalent%20of%20relational%20database%20tables)</a>
-
-#### :school_satchel: Webpack :school_satchel:
-
-**Webpack** is a static module bundler for modern JavaScript applications.  When webpack process an application, it internally builds a dependency graph that maps every module the project needs and generates one or more bundles, which enables JavaScript to have greater modularization.
-
-*Webpack* content borrowed from <a target="_blank" rel="noopener noreferrer">[this page](https://webpack.js.org/concepts/)</a>
-
-#### :card_index: IndexedDB :card_index:
-
-**IndexedDB** is a way for developers to persistently store data inside a user's browser.  Because it lets you create web applications with rich query abilities regardless of network availability, your applications can work both online and offline.
-
-*IndexedDB* content borrowed from <a target="_blank" rel="noopener noreferrer">[this page](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API/Using_IndexedDB)</a>
 
 ### Author 
 
