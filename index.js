@@ -5,7 +5,7 @@ const markDown = require("./utils/generateMarkDown");
 const path = require("path");
 
 //creating a director variable to push the generated README to the NODE.js Team Generator
-const OUTPUT_DIR = path.resolve("../user-directory");
+const OUTPUT_DIR = path.resolve("../portfolio");
 
 // array of questions for user
 const questions = [
