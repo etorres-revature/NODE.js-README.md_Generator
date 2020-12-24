@@ -85,6 +85,12 @@ _Bootstrap 4_ content borrowed from <a target="_blank" rel="noopener noreferrer"
 
 _Express.js_ content borrowed from <a target="_blank" rel="noopener noreferrer">[this page](https://expressjs.com/).</a>
 
+#### :japanese_ogre: MongoDB :japanese_ogre:
+
+**MongoDB** is a document-oriented NoSQL database used for high volume data storage. Instead of using tables and rows like traditional databases, MongoDB makes use of collections and documents. Documents consist of key-value pairs that are the basic unit of data and more closely resemble the JSON architecture.
+
+_MongoDB_ content borrowed from <a target="_blank" rel="noopener noreferrer">[this page](https://www.guru99.com/what-is-mongodb.html#:~:text=MongoDB%20is%20a%20document%2Doriented,use%20of%20collections%20and%20documents.&text=Collections%20contain%20sets%20of%20documents,equivalent%20of%20relational%20database%20tables).</a>
+
 #### :dizzy: React.js :dizzy:
 
 **React.js** is an open source JavaScript library that is used for building interfaces for single-page applications, which handles the view layer for web and mobile apps.  React allows for the creation of reusable UI components.  This allows developers to create large web applications that change data, without reloading the page.
